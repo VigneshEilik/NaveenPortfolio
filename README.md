@@ -49,8 +49,7 @@ All text lives in **`src/content/`**. Edit a file, save, and the site updates.
 
 **Placeholders:** any text in `[square brackets]` is a placeholder. Replace the whole thing, brackets included.
 
-- In **`npm run dev`** placeholders are **highlighted in yellow**, and a badge in the bottom-left corner
-  shows how many are left.
+- In **`npm run dev`** placeholders are **highlighted in yellow**.
 - On the **live site** (production build) placeholders are **hidden automatically**: unfinished list
   items, company names, dates and empty skill groups simply don't appear, so recruiters never see brackets.
   Fill them in to make that information show up.

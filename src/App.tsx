@@ -1,4 +1,4 @@
-import { BackToTop, PlaceholderBadge } from './components/FloatingUi'
+import { BackToTop } from './components/FloatingUi'
 import { Footer } from './components/Footer'
 import { Header } from './components/Header'
 import { About } from './components/sections/About'
@@ -38,7 +38,6 @@ export default function App() {
       </main>
       <Footer />
       <BackToTop />
-      <PlaceholderBadge />
     </>
   )
 }
